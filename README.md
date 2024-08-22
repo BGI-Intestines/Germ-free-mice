@@ -2,7 +2,7 @@
 
 Here, we present a pipeline for a multi-organ single-cell, spatial transcriptomics, and bile acid omics atlas of SPF and GF mice.
 
- ![GitHub Logo](https://github.com/BGI-Intestines/github_figure.pdf)
+ ![GitHub Logo](https://github.com/BGI-Intestines/figure.png)
 
 This workflow includes the following contents,
 
