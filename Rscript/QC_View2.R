@@ -17,9 +17,8 @@ print(opts)
 Read_List <- function(FileList) {
   object <- list() #  lwm 2023-10-12
   for (i in 1:length(FileList$tissue)){
-    	#names <- as.character(FileList$tissue) # 2022-10-22
+
     	object[[FileList$tissue[i]]] <- CreateSeuratObject(Read10X(FileList$path[i],gene.column = 1), # C4 gene.column = 1
-        #object[[FileList$tissue[i]]] <- CreateSeuratObject(Read10X(FileList$path[i],gene.column = 2), # 10X gene.column = 2
            project = FileList$tissue[i],min.cells = 3,min.features = 200)
 	object[[FileList$tissue[i]]] <- RenameCells(object[[FileList$tissue[i]]],add.cell.id = FileList$tissue[i])
     }
@@ -73,7 +72,7 @@ print("Step2 : Craete object Finish!")
 # Merge object of seurat 
 print(length(obj.list))
 Merge <- merge(obj.list[[1]],obj.list[2:length(obj.list)]) # C4
-#Merge <- obj.list[[1]] # 10X 
+
 print(Merge)
 print("Step3 : Merge object Finish!")
 
