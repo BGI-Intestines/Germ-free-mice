@@ -1,0 +1,13 @@
+Gene	Class	Tissue
+Nr1h4	Regulation/Transporter gene	Liver/Gut
+Nr0b2	Regulation/Transporter gene	Liver/Gut
+Fgf15	Regulation/Transporter gene	Gut
+Nr1h2	Regulation/Transporter gene	Liver/Gut
+Slc10a2	Regulation/Transporter gene	Gut
+Fabp6	Regulation/Transporter gene	Gut
+Slc51a	Regulation/Transporter gene	Gut
+Slc51b	Regulation/Transporter gene	Gut
+Abcc2	Regulation/Transporter gene	Liver/Gut
+Abcc3	Regulation/Transporter gene	Gut
+Rxra	Regulation/Transporter gene	Liver/Gut
+Nr1i2	Regulation/Transporter gene	Liver/Gut

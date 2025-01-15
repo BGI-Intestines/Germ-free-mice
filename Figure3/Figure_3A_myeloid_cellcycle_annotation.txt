@@ -1,0 +1,21 @@
+Cluster	ClusterName
+0	Macro(Retnla high)
+1	Kupffer cell
+2	Macro(Acp5 high)
+3	Macro(Gpnmb high)
+4	Dying cell
+5	Cd16+ DC
+6	Migratory cDC
+7	cDC2
+8	Monoctye
+9	cDC1
+10	pDC
+11	Neu_cycling(Mpo high)
+12	HSCP
+13	Neu(Mpo high)
+14	Neu_cycling(Camp high)
+15	Neu(Camp high)
+16	Neu(Retnlg high)
+17	Neu(Il1b high)
+18	Basophil
+19	Mast cell
