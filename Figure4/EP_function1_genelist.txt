@@ -1,0 +1,69 @@
+Gene	Class
+Hdac1	SCFAs
+Slc16a1	SCFAs
+Slc5a8	SCFAs
+Hdac5	SCFAs
+Hdac9	SCFAs
+Retnlb	Antibacterial
+Duoxa2	Antibacterial
+Reg3b	Antibacterial
+Reg3g	Antibacterial
+Nos2	Antibacterial
+Defa24	Antibacterial
+Klf4	Barrier function
+Zg16	Barrier function
+Muc13	Barrier function
+Muc3	Barrier function
+Ocln	Barrier function
+Muc2	Barrier function
+Ccl28	Chemokines
+Ccl6	Chemokines
+Ccl9	Chemokines
+Ccl5	Chemokines
+H2-Eb1	MHCII
+H2-Ab1	MHCII
+H2-Aa	MHCII
+Cd74	MHCII
+Ceacam1	Virus receptor
+Hspa8	Virus receptor
+Cxadr	Virus receptor
+Lamp1	Virus receptor
+Ocln	Virus receptor
+Mertk	Virus receptor
+Efnb2	Virus receptor
+Rpsa	Virus receptor
+Itga6	Virus receptor
+Tfrc	Virus receptor
+Itgb1	Virus receptor
+Dag1	Virus receptor
+Scarb2	Virus receptor
+Slc1a5	Virus receptor
+Dpp4	Virus receptor
+Anpep	Virus receptor
+Ace2	Virus receptor
+Epha2	Virus receptor
+Cd81	Virus receptor
+Pcdh1	Virus receptor
+Cd151	Virus receptor
+Flvcr1	Virus receptor
+Scarb1	Virus receptor
+Cd55	Virus receptor
+Slc7a1	Virus receptor
+Slc20a1	Virus receptor
+Ceacam2	Virus receptor
+Ap3d1	Virus receptor
+Ldlr	Virus receptor
+Cd74	Virus receptor
+Nectin2	Virus receptor
+Slc52a2	Virus receptor
+Itga3	Virus receptor
+Pvr	Virus receptor
+Fcgrt	Virus receptor
+Dhx15	Antiviral
+Dhx9	Antiviral
+Scaf11	Antiviral
+Nlrc4	Antiviral
+Aim2	Antiviral
+Xbp1	Antiviral
+Nlrp6	Antiviral
+Irf7	Antiviral

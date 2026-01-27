@@ -1,0 +1,22 @@
+Cluster	ClusterName
+0	DPT(Q)
+1	Alpha-beta T
+2	Cd4 & Cd8 SP
+3	S1pr1+ Sell+ CD4
+4	Sell+ CD4
+5	Sell+ CD8
+6	Tfh
+7	Foxp3+ Treg
+8	Th17
+9	RORyt+ ILC3
+10	Ncr1+ NK
+11	Gamma delta T cell
+12	NKT
+13	Socs2+ NKtr
+14	Icam1+ NK
+15	Cx3cr1+ CD8 Tmem
+16	CD8αα_1
+17	Ifng+ CD8 Trm
+18	CD8αα_2
+19	ILC2
+20	PLZF+ILCp

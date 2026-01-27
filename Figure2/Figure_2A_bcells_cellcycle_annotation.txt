@@ -1,0 +1,19 @@
+Cluster	ClusterName
+0	pro-B
+1	pre-B
+2	Immature B
+3	Mature B-C1
+4	Mature B-C2
+5	Mature B-C3
+6	Mature B-C4
+7	Mature B-C6
+8	Mature B-C5
+9	Mature B-C10
+10	Mature B-C9
+11	Mature B-C8
+12	Mature B-C7
+13	Transitional B
+14	IgA plasma
+15	IgG plasma
+16	IgM plasma
+17	Plasma cycling

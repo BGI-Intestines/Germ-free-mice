@@ -1,0 +1,63 @@
+Gene	Class
+Slc2a1	Glucose transport
+Slc50a1	Glucose transport
+Slc5a1	Glucose transport
+Slc2a5	Glucose transport
+Slc37a4	Glucose transport
+Slc5a11	Glucose transport
+Slc2a2	Glucose transport
+Slc5a9	Glucose transport
+Slc38a2	Amino Acid
+Slc1a5	Amino Acid
+Slc6a6	Amino Acid
+Slc3a1	Amino Acid
+Slc6a19	Amino Acid
+Slc3a2	Amino Acid
+Slc25a39	Amino Acid
+Slc7a7	Amino Acid
+Slc43a2	Amino Acid
+Slc7a9	Amino Acid
+Slc1a1	Amino Acid
+Vdr	Vitamin
+Rdh5	Vitamin
+Slc22a4	Vitamin
+Tcn2	Vitamin
+Rbp2	Vitamin
+Rbp7	Vitamin
+Slc23a2	Vitamin
+Slc46a1	Vitamin
+Bco2	Vitamin
+Bco1	Vitamin
+Lrat	Vitamin
+Amn	Vitamin
+Cubn	Vitamin
+Slc13a2	Organic Solute
+Slc16a5	Organic Solute
+Slc26a6	Organic Solute
+Slc51a	Organic Solute
+Slc10a2	Organic Solute
+Slc51b	Organic Solute
+Slc4a7	Inorganic Solute
+Cftr	Inorganic Solute
+Slc13a1	Inorganic Solute
+Slc4a4	Inorganic Solute
+Slc34a2	Inorganic Solute
+Slc17a9	Nucleotide
+Slc35a3	Nucleotide
+Slc25a36	Nucleotide
+Slc28a1	Nucleotide
+Slc39a4	Metal Ion
+Slc39a9	Metal Ion
+Slc9a2	Metal Ion
+Slc30a4	Metal Ion
+Slc39a7	Metal Ion
+Atp2a3	Metal Ion
+Slc31a1	Metal Ion
+Slc25a37	Metal Ion
+Slc30a5	Metal Ion
+Slc25a28	Metal Ion
+Slc39a5	Metal Ion
+Aqp8	Water
+Aqp1	Water
+Aqp11	Water
+Aqp3	Water

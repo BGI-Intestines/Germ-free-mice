@@ -1,0 +1,23 @@
+Gene	Class	Tissue
+Cyp7a1	BA synthesis	Liver
+Cyp7b1	BA synthesis	Liver
+Cyp27a1	BA synthesis	Liver
+Cyp2c70	BA synthesis	Liver
+Cyp8b1	BA synthesis	Liver
+Abcb11	BA transporters	Liver
+Abcc2	BA transporters	Liver/Gut
+Abcb4	BA transporters	Liver
+Slc10a1	BA transporters	Liver
+Slco1a1	BA transporters	Liver
+Abcg8	BA transporters	Liver
+Abcg5	BA transporters	Liver
+Fgfr4	BA transporters	Liver
+Abcc3	BA transporters	Liver
+Nr1h4	regulates the synthesis	Liver/Gut
+Nr0b2	regulates the synthesis	Liver/Gut
+Nr1h2	regulates the synthesis	Liver/Gut
+Nr1i2	regulates the synthesis	Liver/Gut
+Rxra	regulates the synthesis	Liver/Gut
+Hnf4a	regulates the synthesis	Liver
+Nr5a2	regulates the synthesis	Liver
+Ppara	regulates the synthesis	Liver

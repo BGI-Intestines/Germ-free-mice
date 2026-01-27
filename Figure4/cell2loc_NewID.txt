@@ -1,0 +1,15 @@
+Name	NewID
+Apoa4 high mature epithelial	0
+Saa1 high mature epithelial	1
+Hmgcs2 high mature epithelial	2
+Camk1d high mature epithelial	3
+Antibacterial niche	4
+Stem cell niche	5
+Stem cell nich and immune enriched	6
+Secretory epithelial(Goblet enrich)	7
+Stroma and immune enriched	8
+Plasma cell enriched	9
+Innervated stroma	10
+Vasculature	11
+Crypt mesenchymal cell niche	12
+Smooth muscle	13
