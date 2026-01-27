@@ -4,7 +4,7 @@
 
 ### Cross-tissue multi-omics analyses reveal the gut microbiota's absence impacts organ morphology, immune homeostasis, bile acid and lipid metabolism
 
-Juan Shen^1,2,$^ , Weiming Liang^1,$^ , Ruizhen Zhao^1,$^ , Yang Chen^3,$^ , Yanmin Liu^3,$^ , Wei Cheng^4,$^ , Tailiang Chai^1^ , Yin Zhang^1^ , Silian Chen^1^ , Jiazhe Liu^1^ , Xueting Chen^1^ , Yusheng Deng^3^ , Zhao Zhang^1^ , Yufen Huang^1^ , Huanjie Yang^1^ , Li Pang^1^ , Qinwei Qiu^3^ , Haohao Deng^5^ , Shanshan Pan^6^ , Linying Wang^1^, Jingjing Ye^1^, Wen Luo ^7,8^, Xuanting Jiang^7,8^, Xiao Huang^1^, Wanshun Li^1^, Elaine Lai-Han Leung^8,9,10^ , Lu Zhang^11^, Li Huang^3^, Zhimin Yang^3^ , Rouxi Chen^12^, Junpu Mei^1,12^, Zhen Yue^12^, Hong Wei ^4,13,✉,^, Kristiansen Karsten^1,14,✉,^, Lijuan Han^7,8,15,✉,^, Xiaodong Fang^3,12,✉,^
+Juan Shen<sup>1,2,$</sup>, Weiming Liang<sup>1,$</sup>, Ruizhen Zhao<sup>1,$</sup>, Yang Chen<sup>3,✉</sup>, Yanmin Liu<sup>3,$</sup>, Wei Cheng<sup>4,$</sup>, Tailiang Chai<sup>1</sup>, Yin Zhang<sup>1</sup>, Silian Chen<sup>1</sup>, Jiazhe Liu<sup>1</sup>, Xueting Chen<sup>1</sup>, Yusheng Deng<sup>3</sup>, Zhao Zhang<sup>1</sup>, Yufen Huang<sup>1</sup>, Huanjie Yang<sup>1</sup>, Li Pang<sup>1</sup>, Qinwei Qiu<sup>3</sup>, Haohao Deng<sup>5</sup>, Shanshan Pan<sup>6</sup>, Linying Wang<sup>1</sup>, Jingjing Ye<sup>1</sup>, Wen Luo<sup>7,8</sup>, Xuanting Jiang<sup>7,8</sup>, Xiao Huang<sup>1</sup>, Wanshun Li<sup>1</sup>, Elaine Lai-Han Leung<sup>8,9,10</sup>, Lu Zhang<sup>11</sup>, Li Huang<sup>3</sup>, Zhimin Yang<sup>3</sup>, Rouxi Chen<sup>12</sup>, Junpu Mei<sup>1,12</sup>, Zhen Yue<sup>12</sup>, Hong Wei<sup>4,13,✉</sup>, Kristiansen Karsten<sup>1,14,✉</sup>, Lijuan Han<sup>7,8,15,✉</sup>, Xiaodong Fang<sup>3,12,✉</sup>
 
 $ Co-first authors
 
@@ -44,7 +44,7 @@ This workflow includes the following contents,
 
 ## Certificate 
 
-![image](https://github.com/BGI-Intestines/Germ-free-mice/blob/master/iMeta_certificate.jpg,width ='500px')
+![image]('https://github.com/BGI-Intestines/Germ-free-mice/blob/master/iMeta_certificate.jpg',width ='500px')
 
 ## News
 
