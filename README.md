@@ -44,7 +44,7 @@ This workflow includes the following contents,
 
 ## Certificate 
 
-![image](https://github.com/BGI-Intestines/Germ-free-mice/blob/master/iMeta_certificate.jpg){width=500,height=300}
+<img src='https://github.com/BGI-Intestines/Germ-free-mice/blob/master/iMeta_certificate.jpg' width='100px'>
 
 ## News
 
